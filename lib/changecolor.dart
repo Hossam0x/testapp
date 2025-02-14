@@ -37,7 +37,7 @@ class ColorBoxPage extends StatelessWidget {
                 ),
               );
             } else {
-              color = Colors.red;
+              color = Colors.black;
               return ElevatedButton(
                 onPressed: () {
                   context
